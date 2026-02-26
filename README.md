@@ -93,7 +93,7 @@
 <h2>🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/shiyas_dx/shiyas_dx/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
