@@ -1,64 +1,79 @@
 <div align="center">
+
   <h1>SHIYAS</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Python+Developer;AI+Orchestration+Engineer;Backend+Architect+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Python+Developer;AI+Orchestration+Engineer;Backend+Architect+%2F+DevOps" alt="Professional Title" />
+
+  <br />
+
+  <p style="max-width:800px; line-height: 1.6; font-size: 16px; color: #a1a1aa;">
+    Full Stack Developer currently contributing to <b>Bridgeon Solution LLP</b>. 
+    Specialized in architecting high-performance backend systems with <b>Python</b> and <b>Django</b>, 
+    with a focus on <b>AI Orchestration</b> using multi-model logic and scalable <b>DevOps</b> infrastructure.
   </p>
 
-  <p style="max-width: 800px; line-height: 1.6; color: #94a3b8;">
-    Full Stack Python Developer currently contributing at <b>Bridgeon Solution LLP</b>. 
-    Specialized in architecting scalable backend systems, implementing asynchronous processing, 
-    and engineering production-ready AI orchestration workflows using LiteLLM.
-  </p>
+  <hr width="50%" style="border: 0.5px solid #333;" />
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/shiyas-m-a343a8376">
+<h3>DIGITAL PRESENCE</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/shiyas-m-a343a8376" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://shiyasdev.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-101010?style=for-the-badge&logo=vercel&logoColor=white" />
+    <a href="https://shiyasdev.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-18181b?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:shiyasdx98@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </div>
+  </p>
+
+<br />
+
+<h3>CORE COMPETENCIES</h3>
+  <br />
+  
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,celery,docker,aws,nginx,react,redux,tailwind&theme=dark&perline=6" />
+  </a>
+
 </div>
 
----
+<br /><br />
 
-### TECHNICAL STACK
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>PROJECT ARCHITECTURE</h4>
+      <ul>
+        <li><b>MockAI:</b> Engineering production-grade AI interview intelligence using LiteLLM.</li>
+        <li><b>Scalability:</b> Implementation of Redis/Celery for asynchronous task processing.</li>
+        <li><b>Deployment:</b> Automating containerized environments via Docker Compose and AWS.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>CURRENT OBJECTIVES</h4>
+      <ul>
+        <li>Advanced optimization of Large Language Model orchestration workflows.</li>
+        <li>Implementation of Clean Architecture principles in Python environments.</li>
+        <li>Enhancing CI/CD pipelines for high-availability web applications.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core Development** | Python / Django / FastAPI / React / Redux |
-| **Infrastructure** | AWS (EC2, RDS) / Docker / Nginx / PostgreSQL |
-| **AI & Intelligence** | LiteLLM / Gemini / OpenAI / Groq / Vector Databases |
-| **Operations** | Celery / Redis / Git / Linux Administration |
-
----
-
-### CURRENT FOCUS
-
-* **MockAI Implementation:** Engineering an AI Interview Intelligence Platform with multi-model orchestration.
-* **System Design:** Developing high-performance microservices focused on low-latency data processing.
-* **DevOps Integration:** Automating deployment pipelines using Docker Compose and AWS infrastructure.
-
----
-
-### ANALYTICS
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyas_dx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyas_dx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="170" />
+  <h3>SYSTEM ANALYTICS</h3>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiyas_dx&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyas_dx&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a1a1aa" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=shiyas_dx&color_snake=38BDF8&point_color=1E293B" alt="Contribution Grid" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Scalability by design. Efficiency by default."</i>
+  <hr width="30%" style="border: 0.5px solid #333;" />
+  <p style="color: #71717a; font-family: monospace;">
+    PRECISION . SCALABILITY . INNOVATION
+  </p>
 </div>
