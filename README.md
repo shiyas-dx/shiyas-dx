@@ -1,32 +1,18 @@
-<!-- =====================
- Modern Animated GitHub Profile README
- Author: shiyas_dx
-===================== -->
-
 <div align="center">
 
-  <!-- Animated Typing Header -->
-
-  <h1>Hi 👋, I'm <span style="color:#38bdf8;">shiyas_dx</span></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Full-Stack+Web+Developer;React+%7C+Django+%7C+PostgreSQL" alt="Typing SVG" />
+  <h1>Hi 👋, I'm <span style="color:#38bdf8;">Shiyas</span></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Python+Developer;AI+Orchestration+Specialist;Backend+Architect+%26+DevOps;Django+%7C+React+%7C+AWS" alt="Typing SVG" />
 
 <br /><br />
 
-  <!-- Fresh Description -->
-
   <p style="max-width:750px; font-size:16px;">
-    🌱 I am a <b>passionate and motivated Software Developer</b> who enjoys building clean, responsive, and user-friendly web applications.
-    <br />
-    I have hands-on experience with <b>HTML, CSS, JavaScript, React, Redux, Python, Django, and PostgreSQL</b>.
-    <br />
-    🤝 Known for my <b>strong communication skills</b> and <b>team leadership mindset</b>, I love collaborating, learning new technologies, and turning ideas into working solutions.
+    🚀 I am a <b>Full-Stack Python Developer</b> currently interning at <b>Bridgeon Solution LLP</b>. 
+    I specialize in building scalable backend architectures and production-ready <b>AI Orchestration</b> systems.
+    <br /><br />
+    Currently, I'm focused on integrating Multi-Model AI logic (Gemini, OpenAI, Groq) using <b>LiteLLM</b> and optimizing deployments with <b>Docker</b> and <b>AWS</b>.
   </p>
 
   <hr width="80%" />
-
-<!-- =====================
- Contact Me (Neon Buttons)
-===================== -->
 
 <h2 align="center">🔗 Connect With Me</h2>
 
@@ -45,55 +31,39 @@
 <br />
 </div>
 
-<!-- =====================
- Tech Stack (Animated Icons Feel)
-===================== -->
-
-<!-- =====================
- Dark / Neon Theme Notice
-===================== -->
-
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center" style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 <br />
 
-<!-- =====================
- What I'm Focused On
-===================== -->
-
-<h2>🎯 What I'm Focused On</h2>
+<h2>🎯 Current Focus</h2>
 
 <ul>
-  <li>Building real-world full-stack projects</li>
-  <li>Improving problem-solving and code quality</li>
-  <li>Learning best practices in React and Django</li>
-  <li>Working in team-based development environments</li>
+  <li><b>MockAI:</b> Developing an AI Interview Intelligence Platform using Multi-Model orchestration.</li>
+  <li><b>Microservices:</b> Scaling Django applications with Redis and Celery for asynchronous task processing.</li>
+  <li><b>Cloud Native:</b> Automating deployments using Docker Compose and Nginx reverse proxies on AWS EC2.</li>
 </ul>
-
-<!-- =====================
- GitHub Stats (Modern Look)
-===================== -->
-
-<!-- =====================
- Contribution Snake Animation
-===================== -->
 
 <h2>🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=shiyas_dx&color_snake=%2338bdf8&point_color=%23ffffff" alt="snake" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
@@ -103,23 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyas_dx&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<!-- =====================
- Fun Extras
-===================== -->
-
-<h2>✨ Fun Extras</h2>
-
-<ul>
-  <li>⚡ I enjoy writing clean and readable code</li>
-  <li>🚀 Always curious to learn new technologies</li>
-  <li>🧠 Believe in consistency over perfection</li>
-</ul>
-
-<!-- =====================
- Footer Quote
-===================== -->
-
 <div align="center">
-  <h3>"Learn fast. Build more. Grow every day."</h3>
+  <h3>"Clean code, scalable architecture, and AI-driven solutions."</h3>
 </div>
-
